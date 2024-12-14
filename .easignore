@@ -1,7 +1,7 @@
 # All this file is doing is making sure hiddenwebview.html and provider.html
 # are sent to expo's (EAS) servers when building the mobile app
 
-!hiddenwebview.html
+hiddenwebview.html
 !provider.html
 
 # Everything below this line is just a copy of the root .gitignore ------------------
